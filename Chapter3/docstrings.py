@@ -3,3 +3,5 @@ def make_tea():
     but not entirely unlike tea.
     """
     # function logic
+    print(make_tea.__doc__)
+    help(make_tea)
